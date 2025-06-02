@@ -1,3 +1,18 @@
+# folders not ready for upload
+Pure_Python/
+udacity_copy/
+Resources/
+
+# Ignore my trial notebook
+trials.ipynb
+class/
+
+# Ignore numpy temp files
+*.npy
+
+# Ignore all files that begin with a dot
+.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
