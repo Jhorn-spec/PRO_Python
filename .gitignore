@@ -7,6 +7,9 @@ Resources/
 trials.ipynb
 class/
 
+# Ignore other external files
+excildraw_propython.excalidraw
+
 # Ignore numpy temp files
 *.npy
 
